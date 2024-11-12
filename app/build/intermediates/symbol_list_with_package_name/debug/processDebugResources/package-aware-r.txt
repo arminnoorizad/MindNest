@@ -1,4 +1,4 @@
-com.example.notepad
+com.example.PurpleNote
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -660,9 +660,9 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
-drawable add_image
-drawable add_voice
-drawable arow_back
+drawable add_image_ic
+drawable add_voice_ic
+drawable arow_back_ic
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -671,10 +671,8 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
-drawable delete
-drawable efwf
-drawable empty
-drawable fvev
+drawable change_background_ic
+drawable empty_background_show_note
 drawable ic_call_answer
 drawable ic_call_answer_low
 drawable ic_call_answer_video
@@ -683,7 +681,11 @@ drawable ic_call_decline
 drawable ic_call_decline_low
 drawable ic_launcher_background
 drawable ic_launcher_foreground
-drawable image_them
+drawable image_background_1
+drawable image_background_2
+drawable image_background_3
+drawable image_background_4
+drawable image_background_5
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -697,18 +699,11 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
-drawable save_note
-drawable share
-drawable sxex
+drawable save_note_ic
+drawable share_ic
 drawable test_level_drawable
-drawable theme
-drawable thrt
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
-font roboto_bold
-font robotoitalic
-font robotothin
-font robototinitalic
 id ALT
 id CTRL
 id FUNCTION
@@ -963,7 +958,6 @@ layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
 mipmap ic_launcher_round
-raw save
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description

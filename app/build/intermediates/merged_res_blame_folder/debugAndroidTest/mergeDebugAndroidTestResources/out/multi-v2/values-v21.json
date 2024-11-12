@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.notepad.test.app-mergeDebugAndroidTestResources-34:/values-v21/values-v21.xml",
+            "outputFile": "com.example.PurpleNote.test.app-mergeDebugAndroidTestResources-34:/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\armn\\.gradle\\caches\\transforms-4\\f526db50d1c18eee605bb3eda67eb897\\transformed\\core-1.13.1\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\armn\\.gradle\\caches\\transforms-4\\51d1b911d1189da9372607d6f0202f89\\transformed\\core-1.13.1\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\armn\\.gradle\\caches\\transforms-4\\7ed8fbba9314373db4d9a0a1698b7c10\\transformed\\core-1.6.1\\res\\values-v21\\values.xml",
+                    "source": "C:\\Users\\armn\\.gradle\\caches\\transforms-4\\9f7b80fbe08140035851c2f12855cf97\\transformed\\core-1.6.1\\res\\values-v21\\values.xml",
                     "from": {
                         "startLines": "4,13",
                         "startColumns": "0,0",

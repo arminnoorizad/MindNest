@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.notepad"
+    namespace = "com.example.PurpleNote"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.notepad"
+        applicationId = "com.example.PurpleNote"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

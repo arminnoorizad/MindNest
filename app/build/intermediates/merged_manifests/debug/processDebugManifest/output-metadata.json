@@ -4,7 +4,7 @@
     "type": "MERGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.example.notepad",
+  "applicationId": "com.example.PurpleNote",
   "variantName": "debug",
   "elements": [
     {

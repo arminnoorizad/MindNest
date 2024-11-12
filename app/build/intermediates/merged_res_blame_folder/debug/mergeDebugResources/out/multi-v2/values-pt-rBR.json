@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.notepad.app-mergeDebugResources-67:/values-pt-rBR/values-pt-rBR.xml",
+            "outputFile": "com.example.PurpleNote.app-mergeDebugResources-67:/values-pt-rBR/values-pt-rBR.xml",
             "map": [
                 {
                     "source": "C:\\Users\\armn\\.gradle\\caches\\transforms-4\\e2392236148d278b71ae0afce999c483\\transformed\\ui-release\\res\\values-pt-rBR\\values-pt-rBR.xml",

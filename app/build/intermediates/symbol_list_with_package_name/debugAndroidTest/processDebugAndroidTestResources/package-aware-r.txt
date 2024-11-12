@@ -1,4 +1,4 @@
-com.example.notepad.test
+com.example.PurpleNote.test
 attr alpha
 attr font
 attr fontProviderAuthority
