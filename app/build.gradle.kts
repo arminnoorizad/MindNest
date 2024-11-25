@@ -2,15 +2,16 @@ plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.jetbrains.kotlin.android)
     kotlin("kapt")
+
     id("dagger.hilt.android.plugin")
 }
 
 android {
-    namespace = "com.example.PurpleNote"
+    namespace = "com.example.mindNest"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.PurpleNote"
+        applicationId = "com.example.mindNest"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
@@ -52,9 +53,6 @@ android {
 }
 
 dependencies {
-    implementation ("androidx.compose.ui:ui:1.4.0")  // Jetpack Compose UI
-    implementation ("androidx.compose.material3:material3:1.3.1")  // Material3
-    implementation ("androidx.compose.material:material-icons-core:1.7.5") // Icons
 
 
     implementation(libs.androidx.core.ktx)
@@ -113,4 +111,8 @@ dependencies {
     implementation("com.google.accompanist:accompanist-glide:0.15.0")
 
     implementation ("commons-io:commons-io:2.11.0")
+
+    implementation("androidx.compose.ui:ui:1.5.0")// به‌روزرسانی نسخه Compose UI
+    implementation("androidx.compose.material3:material3:1.2.0") // به‌روزرسانی نسخه Material3
+    implementation("androidx.compose.foundation:foundation:1.5.0")
 }

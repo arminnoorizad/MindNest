@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.PurpleNote.test" >
+    package="com.example.mindNest.test" >
 
     <uses-sdk
         android:minSdkVersion="24"
@@ -10,8 +10,8 @@
         android:name="androidx.test.runner.AndroidJUnitRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for com.example.PurpleNote"
-        android:targetPackage="com.example.PurpleNote" />
+        android:label="Tests for com.example.mindNest"
+        android:targetPackage="com.example.mindNest" />
 
     <uses-permission android:name="android.permission.REORDER_TASKS" />
 

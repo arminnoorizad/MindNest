@@ -1,4 +1,4 @@
-com.example.PurpleNote.test
+com.example.mindNest.test
 attr alpha
 attr font
 attr fontProviderAuthority

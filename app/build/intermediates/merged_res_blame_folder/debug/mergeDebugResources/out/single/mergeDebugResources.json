@@ -1,114 +1,154 @@
 [
     {
-        "merged": "com.example.PurpleNote.app-debug-69:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.PurpleNote.app-main-71:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\drawable_empty_background_show_note.jpeg.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\drawable\\empty_background_show_note.jpeg"
     },
     {
-        "merged": "com.example.PurpleNote.app-debug-69:/xml_backup_rules.xml.flat",
-        "source": "com.example.PurpleNote.app-main-71:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.PurpleNote.app-debug-69:/drawable_change_background_ic.png.flat",
-        "source": "com.example.PurpleNote.app-main-71:/drawable/change_background_ic.png"
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.PurpleNote.app-debug-69:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.PurpleNote.app-main-71:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "com.example.mindNest.app-debug-69:/drawable_delete_btn.png.flat",
+        "source": "com.example.mindNest.app-main-71:/drawable/delete_btn.png"
     },
     {
-        "merged": "com.example.PurpleNote.app-debug-69:/drawable_image_background_2.jpg.flat",
-        "source": "com.example.PurpleNote.app-main-71:/drawable/image_background_2.jpg"
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.PurpleNote.app-debug-69:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.PurpleNote.app-main-71:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\drawable_image_background_6.jpeg.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\drawable\\image_background_6.jpeg"
     },
     {
-        "merged": "com.example.PurpleNote.app-debug-69:/drawable_add_voice_ic.png.flat",
-        "source": "com.example.PurpleNote.app-main-71:/drawable/add_voice_ic.png"
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\drawable_image_background_1.jpg.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\drawable\\image_background_1.jpg"
     },
     {
-        "merged": "com.example.PurpleNote.app-debug-69:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.PurpleNote.app-main-71:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.PurpleNote.app-debug-69:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.PurpleNote.app-main-71:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.PurpleNote.app-debug-69:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.PurpleNote.app-main-71:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\drawable_add_image_ic.png.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\drawable\\add_image_ic.png"
     },
     {
-        "merged": "com.example.PurpleNote.app-debug-69:/drawable_image_background_4.jpg.flat",
-        "source": "com.example.PurpleNote.app-main-71:/drawable/image_background_4.jpg"
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\drawable_change_background_ic.png.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\drawable\\change_background_ic.png"
     },
     {
-        "merged": "com.example.PurpleNote.app-debug-69:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.PurpleNote.app-main-71:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\drawable_arow_back_ic.png.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\drawable\\arow_back_ic.png"
     },
     {
-        "merged": "com.example.PurpleNote.app-debug-69:/drawable_save_note_ic.png.flat",
-        "source": "com.example.PurpleNote.app-main-71:/drawable/save_note_ic.png"
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\drawable_image_background_2.jpg.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\drawable\\image_background_2.jpg"
     },
     {
-        "merged": "com.example.PurpleNote.app-debug-69:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.PurpleNote.app-main-71:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\drawable_play_icon.png.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\drawable\\play_icon.png"
     },
     {
-        "merged": "com.example.PurpleNote.app-debug-69:/drawable_image_background_1.jpg.flat",
-        "source": "com.example.PurpleNote.app-main-71:/drawable/image_background_1.jpg"
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.PurpleNote.app-debug-69:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.PurpleNote.app-main-71:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\drawable_pause_btn.png.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\drawable\\pause_btn.png"
     },
     {
-        "merged": "com.example.PurpleNote.app-debug-69:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.PurpleNote.app-main-71:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.PurpleNote.app-debug-69:/drawable_image_background_3.jpg.flat",
-        "source": "com.example.PurpleNote.app-main-71:/drawable/image_background_3.jpg"
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.PurpleNote.app-debug-69:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.PurpleNote.app-main-71:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\drawable_image_background_4.jpg.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\drawable\\image_background_4.jpg"
     },
     {
-        "merged": "com.example.PurpleNote.app-debug-69:/drawable_image_background_5.jpg.flat",
-        "source": "com.example.PurpleNote.app-main-71:/drawable/image_background_5.jpg"
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.PurpleNote.app-debug-69:/drawable_share_ic.png.flat",
-        "source": "com.example.PurpleNote.app-main-71:/drawable/share_ic.png"
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\mipmap-hdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.PurpleNote.app-debug-69:/drawable_add_image_ic.png.flat",
-        "source": "com.example.PurpleNote.app-main-71:/drawable/add_image_ic.png"
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\drawable_delete_btn.png.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\drawable\\delete_btn.png"
     },
     {
-        "merged": "com.example.PurpleNote.app-debug-69:/drawable_arow_back_ic.png.flat",
-        "source": "com.example.PurpleNote.app-main-71:/drawable/arow_back_ic.png"
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.example.PurpleNote.app-debug-69:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.PurpleNote.app-main-71:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.PurpleNote.app-debug-69:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.PurpleNote.app-main-71:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\mipmap-mdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.PurpleNote.app-debug-69:/drawable_empty_background_show_note.jpeg.flat",
-        "source": "com.example.PurpleNote.app-main-71:/drawable/empty_background_show_note.jpeg"
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\drawable_image_background_5.jpg.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\drawable\\image_background_5.jpg"
     },
     {
-        "merged": "com.example.PurpleNote.app-debug-69:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.PurpleNote.app-main-71:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.PurpleNote.app-debug-69:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.PurpleNote.app-main-71:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\drawable_save_note_ic.png.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\drawable\\save_note_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\drawable_image_background_3.jpg.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\drawable\\image_background_3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\drawable_add_voice_ic.png.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\drawable\\add_voice_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\drawable_share_ic.png.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\drawable\\share_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-debug-69:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\armn\\.gradle\\daemon\\8.6\\com.example.mindNest.app-main-71:\\mipmap-xhdpi\\ic_launcher.webp"
     }
 ]

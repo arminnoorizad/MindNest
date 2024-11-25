@@ -1,6 +1,7 @@
 R_DEF: Internal format may change without notice
 local
 color black
+color ic_launcher_background
 color purple_200
 color purple_500
 color purple_700
@@ -11,6 +12,7 @@ drawable add_image_ic
 drawable add_voice_ic
 drawable arow_back_ic
 drawable change_background_ic
+drawable delete_btn
 drawable empty_background_show_note
 drawable ic_launcher_background
 drawable ic_launcher_foreground
@@ -19,9 +21,13 @@ drawable image_background_2
 drawable image_background_3
 drawable image_background_4
 drawable image_background_5
+drawable image_background_6
+drawable pause_btn
+drawable play_icon
 drawable save_note_ic
 drawable share_ic
 mipmap ic_launcher
+mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 string app_name
 style Theme.NotePad
