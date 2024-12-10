@@ -5,5 +5,5 @@
 - **Room Database**: Stores notes locally on the device with support for data persistence.
 - **Coroutines**: Executes database operations asynchronously for smooth user interactions.
 - **LiveData**: Automatically updates the UI when data changes in the database.
-- **Jetpack Compose (optional)**: If Compose is used, for declarative UI components and a modern design.
+- **Jetpack Compose **: If Compose is used, for declarative UI components and a modern design.
 - **Image and Voice Note Support**: Allows users to add images and record voice notes to their entries.
