@@ -1,4 +1,4 @@
-  purpleNote is an Android note-taking application built with a focus on  using MVVM (Model-View-ViewModel) and Android's Jetpack components. The app allows users to create, edit, and delete notes, featuring a persistent local storage solution with Room database, asynchronous data operations with Coroutines, and reactive UI updates using LiveData.
+  MindNest is an Android note-taking application built with a focus on  using MVVM (Model-View-ViewModel) and Android's Jetpack components. The app allows users to create, edit, and delete notes, featuring a persistent local storage solution with Room database, asynchronous data operations with Coroutines, and reactive UI updates using LiveData.
 
 ## Features
 - **MVVM Architecture**: Ensures a clean separation of concerns, making the app maintainable and testable.
