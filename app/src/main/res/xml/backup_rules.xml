@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Backup rules: explicitly exclude sensitive DB passphrase and database files from auto-backup -->
+<full-backup-content>
+    <!-- Exclude encrypted shared prefs that store DB passphrase -->
+    <exclude domain="sharedpref" path="mindnest_db_secure_prefs.xml" />
+    <!-- Exclude the Room database file from backups -->
+    <exclude domain="database" path="Mind_db" />
+    <!-- Keep other defaults as needed -->
+</full-backup-content>

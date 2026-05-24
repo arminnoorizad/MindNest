@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Mind Nest</string>
+    <string name="notification_permission_denied">Notifications are disabled. Enable them in system settings to receive Mind Nest updates.</string>
+    <string name="default_notification_channel_id">mindnest_general</string>
+
+
+    <string name="add_edit_app_title">MindNest</string>
+    <string name="note_title_hint">Title</string>
+    <string name="note_content_hint">Write your note…</string>
+    <string name="save_note">Save</string>
+    <string name="delete_voice">DELETE VOICE</string>
+    <string name="cd_back">Back</string>
+    <string name="cd_change_background">Change background</string>
+    <string name="cd_save_note">Save note</string>
+    <string name="cd_play_voice">Play voice note</string>
+    <string name="cd_pause_voice">Pause voice note</string>
+    <string name="cd_delete_voice">Delete voice note</string>
+    <string name="cd_delete_image">Remove image</string>
+    <string name="cd_bold">Bold</string>
+    <string name="cd_italic">Italic</string>
+    <string name="cd_bullet_list">Bullet list</string>
+    <string name="cd_record_audio">Record audio</string>
+    <string name="cd_add_image">Add image</string>
+    <string name="background_style">Background style</string>
+    <string name="default_background">Default</string>
+</resources>

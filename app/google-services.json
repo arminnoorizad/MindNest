@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858101824923",
+    "project_id": "mindnest-c2250",
+    "storage_bucket": "mindnest-c2250.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858101824923:android:1a9eb936a5cf570699753e",
+        "android_client_info": {
+          "package_name": "ir.armin.mindnest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAljKe3QpRg-FvmDPc2QGe8G5PoZoBAXEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
