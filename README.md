@@ -45,7 +45,3 @@ The codebase strictly decouples concerns across three distinct layers:
 - Android SDK 34+
 - A Firebase project configuration (place your `google-services.json` inside the `app/` folder)
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/mind-nest.git](https://github.com/your-username/mind-nest.git)
