@@ -1,6 +1,6 @@
-<img width="300" height="250" alt="Screenshot_20260525_121336" src="https://github.com/user-attachments/assets/879d36f9-ef7c-48f9-8fca-8df89ecca966" />
-<img width="300" height="250" alt="Screenshot_20260525_121324" src="https://github.com/user-attachments/assets/ca97166c-fa90-4bee-a9c0-b0e9ba4bbd17" />
-<img width="300" height="250" alt="Screenshot_20260524_221814" src="https://github.com/user-attachments/assets/553cbcc2-6f1d-4fcb-adc2-4916a02bd763" />
+<img width="250" height="300" alt="Screenshot_20260525_121336" src="https://github.com/user-attachments/assets/879d36f9-ef7c-48f9-8fca-8df89ecca966" />
+<img width="250" height="300" alt="Screenshot_20260525_121324" src="https://github.com/user-attachments/assets/ca97166c-fa90-4bee-a9c0-b0e9ba4bbd17" />
+<img width="250" height="300" alt="Screenshot_20260524_221814" src="https://github.com/user-attachments/assets/553cbcc2-6f1d-4fcb-adc2-4916a02bd763" />
 # Mind Nest 🧠
 
 A premium, modern, and minimalist multimedia note-taking application for Android. Built from the ground up using **Jetpack Compose (Material 3)** and **Clean Architecture** principles, **Mind Nest** provides a seamless, secure, and intuitive experience for organizing your thoughts.
