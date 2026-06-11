@@ -28,5 +28,8 @@ class ProcessFcmMessageUseCase @Inject constructor(
     private companion object {
         const val DEFAULT_TITLE = "Mind Nest"
         const val DEFAULT_BODY = "You have a new update."
+
+
+
     }
 }

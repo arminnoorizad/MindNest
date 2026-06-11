@@ -9,6 +9,7 @@ object BackgroundResources {
 
     val allOptions = listOf(
 
+
         BackgroundOption(R.drawable.background1),
         BackgroundOption(R.drawable.background2),
         BackgroundOption(R.drawable.background3),
@@ -17,6 +18,7 @@ object BackgroundResources {
         BackgroundOption(R.drawable.background6),
         BackgroundOption(R.drawable.background8),
         BackgroundOption(R.drawable.background7),
+
     )
 
 

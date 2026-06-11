@@ -4,3 +4,4 @@ app/build/
 .idea/
 local.properties
 .kotlin/
+app/release/

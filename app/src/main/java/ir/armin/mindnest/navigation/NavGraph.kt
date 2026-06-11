@@ -13,6 +13,7 @@ import androidx.navigation.navArgument
 import ir.armin.mindnest.features.ui.analytics.TrackScreenView
 import ir.armin.mindnest.data.analytics.AnalyticsScreens
 import ir.armin.mindnest.features.ui.screens.addNoteScreen.AddEditNoteScreen
+import ir.armin.mindnest.features.ui.screens.lockScreen.PrivacyLockScreen
 import ir.armin.mindnest.features.ui.screens.shownotScreen.NoteListScreen
 import ir.armin.mindnest.features.ui.screens.splashScreen.SplashScreen
 
@@ -51,8 +52,18 @@ fun AppNavigation(
             TrackScreenView(screenName = AnalyticsScreens.SPLASH)
             SplashScreen(
                 onSplashFinished = {
-                    navController.navigate(Destination.NoteListScreen.route) {
+                    navController.navigate(Destination.PrivacyLockScreen.route) {
                         popUpTo(Destination.SplashScreen.route) { inclusive = true }
+                    }
+                }
+            )
+        }
+
+        composable(route = Destination.PrivacyLockScreen.route) {
+            PrivacyLockScreen(
+                onUnlockClick = {
+                    navController.navigate(Destination.NoteListScreen.route) {
+                        popUpTo(Destination.PrivacyLockScreen.route) { inclusive = true }
                     }
                 }
             )

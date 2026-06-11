@@ -3,9 +3,12 @@
 
     <uses-permission android:name="android.permission.RECORD_AUDIO" />
     <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
-    <uses-permission
-        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
-        android:maxSdkVersion="28" />
+    <!-- WRITE_EXTERNAL_STORAGE is deprecated on modern Android. App uses scoped storage/internal storage.
+         Removing to avoid Play Protect / store warnings. If you truly need external storage on older devices,
+         handle it at runtime and document justification in the store submission. -->
+
+    <!-- microphone is optional; mark as feature so installers/antivirus can better classify behaviour -->
+    <uses-feature android:name="android.hardware.microphone" android:required="false" />
     <uses-permission android:name="android.permission.INTERNET"/>
 
     <application

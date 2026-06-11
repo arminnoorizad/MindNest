@@ -59,7 +59,7 @@ object MarkdownMapper {
                     }
                 }
             }
-            // انتهای متن
+
             offsetMap.add(text.length)
         }
         return MarkdownResult(annotated, offsetMap)

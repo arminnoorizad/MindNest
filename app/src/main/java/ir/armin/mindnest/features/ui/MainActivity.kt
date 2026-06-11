@@ -41,8 +41,7 @@ class MainActivity : ComponentActivity() {
         deepLinkDestination = extractDeepLinkDestination(intent)
 
         setContent {
-            MindNestTheme(dynamicColor = false , darkTheme = false
-            ) {
+            MindNestTheme(dynamicColor = false, darkTheme = false) {
                 NotificationPermissionHandler()
                 AppNavigation(
                     startDestination = startDestination,

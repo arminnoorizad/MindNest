@@ -1,53 +1,43 @@
-# Keep line numbers for crash reports
--keepattributes SourceFile,LineNumberTable
+# ۱. رهگیری کرش‌ها (بسیار حیاتی)
+-keepattributes SourceFile,LineNumberTable,*Annotation*,Signature,InnerClasses,EnclosingMethod
 -renamesourcefileattribute SourceFile
 
-# Kotlin
+# ۲. کاتلین و کورتینز
 -dontwarn kotlin.**
+-dontwarn kotlinx.coroutines.**
 -keepclassmembers class **$WhenMappings {
     <fields>;
 }
 
-# Coroutines
--keepnames class kotlinx.coroutines.internal.MainDispatcherFactory {}
--keepnames class kotlinx.coroutines.CoroutineExceptionHandler {}
-
-# Hilt / Dagger
--dontwarn com.google.errorprone.annotations.**
--keep class dagger.hilt.** { *; }
--keep class javax.inject.** { *; }
--keep class * extends dagger.hilt.android.internal.lifecycle.HiltViewModelFactory$2 { *; }
--keepclasseswithmembers class * {
-    @dagger.* <methods>;
-}
--keepclasseswithmembers class * {
-    @javax.inject.* <fields>;
-}
-
-# Room
+# ۳. روم و انتیتی‌ها (با حفظ فیلدها برای جلوگیری از کرش دیتابیس)
 -keep class * extends androidx.room.RoomDatabase
--keep @androidx.room.Entity class *
--dontwarn androidx.room.paging.**
+-keep @androidx.room.Entity class * { *; }
+-dontwarn androidx.room.**
 
-# Firebase / FCM
--keep class com.google.firebase.** { *; }
--keep class com.google.android.gms.** { *; }
--dontwarn com.google.firebase.**
 
-# Parcelable / Serializable models used by navigation or IPC
--keepclassmembers class * implements android.os.Parcelable {
-    public static final ** CREATOR;
-}
-
-# Coil
--dontwarn coil.**
-
-# Mind Nest domain models
 -keep class ir.armin.mindnest.data.local.database.entity.** { *; }
 
-# SQLCipher
+
+
+
+
 -keep class net.zetetic.** { *; }
 -dontwarn net.zetetic.**
 
-# Firebase Analytics
--keep class com.google.firebase.analytics.** { *; }
+-dontwarn com.google.errorprone.annotations.**
+-dontwarn com.google.firebase.**
+-dontwarn com.google.android.gms.**
+
+-keepclassmembers class * implements android.os.Parcelable {
+    public static final ** CREATOR;
+}
+-keepclassmembers class * implements java.io.Serializable {
+    static final long serialVersionUID;
+    private static final java.io.ObjectStreamField[] serialPersistentFields;
+    private void writeObject(java.io.ObjectStreamField);
+    private void readObject(java.io.ObjectInputStream);
+    java.lang.Object writeReplace();
+    java.lang.Object readResolve();
+}
+
+-dontwarn coil.**

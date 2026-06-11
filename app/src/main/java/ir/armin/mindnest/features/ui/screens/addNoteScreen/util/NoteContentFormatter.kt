@@ -20,12 +20,10 @@ object NoteContentFormatter {
             val selectedText = text.substring(selection.start, selection.end)
             
             val (newText, newSelection) = if (selectedText.startsWith(wrapper) && selectedText.endsWith(wrapper)) {
-                // Remove wrapper
                 val unwrapped = selectedText.removePrefix(wrapper).removeSuffix(wrapper)
                 val updatedText = text.replaceRange(selection.start, selection.end, unwrapped)
                 updatedText to TextRange(selection.start, selection.start + unwrapped.length)
             } else {
-                // Add wrapper
                 val wrapped = "$wrapper$selectedText$wrapper"
                 val updatedText = text.replaceRange(selection.start, selection.end, wrapped)
                 updatedText to TextRange(selection.start, selection.start + wrapped.length)
