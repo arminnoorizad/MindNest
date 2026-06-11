@@ -64,6 +64,7 @@ dependencies {
     implementation(libs.firebase.analytics)
     implementation(libs.sqlcipher.android)
     implementation(libs.security.crypto)
+    implementation(libs.androidx.biometric)
     implementation(libs.androidx.compose.material.icons.core)
     implementation(libs.androidx.compose.material.icons.extended)
     implementation(libs.coroutines.core)

@@ -22,6 +22,7 @@ sqlcipher = "4.6.1"
 securityCrypto = "1.1.0-alpha06"
 firebaseCrashlytics = "20.0.6"
 googleFirebaseCrashlytics = "3.0.7"
+biometric = "1.1.0"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
@@ -69,6 +70,7 @@ android-coil = { group = "io.coil-kt", name = "coil-compose", version = "2.6.0" 
 sqlite = { group = "androidx.sqlite", name = "sqlite-ktx", version = "2.6.2" }
 security-crypto = { group = "androidx.security", name = "security-crypto", version.ref = "securityCrypto" }
 sqlcipher-android = { group = "net.zetetic", name = "sqlcipher-android", version.ref = "sqlcipher" }
+androidx-biometric = { group = "androidx.biometric", name = "biometric", version.ref = "biometric" }
 
 
 splashscreen = { group = "androidx.core", name = "core-splashscreen", version = "1.0.1" }

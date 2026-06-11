@@ -2,12 +2,12 @@ package ir.armin.mindnest.features.ui
 
 import android.content.Intent
 import android.os.Bundle
-import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.setValue
+import androidx.fragment.app.FragmentActivity
 import dagger.hilt.android.AndroidEntryPoint
 import ir.armin.mindnest.data.analytics.AnalyticsEvents
 import ir.armin.mindnest.data.notification.NotificationConstants
@@ -19,7 +19,7 @@ import ir.armin.mindnest.navigation.Destination
 import javax.inject.Inject
 
 @AndroidEntryPoint
-class MainActivity : ComponentActivity() {
+class MainActivity : FragmentActivity() {
 
     @Inject
     lateinit var pushNotificationRepository: PushNotificationRepository

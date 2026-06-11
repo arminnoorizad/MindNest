@@ -61,7 +61,7 @@ fun AppNavigation(
 
         composable(route = Destination.PrivacyLockScreen.route) {
             PrivacyLockScreen(
-                onUnlockClick = {
+                onUnlocked = {
                     navController.navigate(Destination.NoteListScreen.route) {
                         popUpTo(Destination.PrivacyLockScreen.route) { inclusive = true }
                     }
